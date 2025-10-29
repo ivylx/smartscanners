@@ -4,7 +4,7 @@ Repository for my CIS581 Final Project with Professor Jianbo Shi, Fall 2023.
 Ivy L. Xie (Individual)
 
 ### Description of Code and Layout
-* Report: `CIS_581_Final_Project_Report_Ivy_Luxen_Xie.pdf`
+* Report: `CIS_581_Final_Project_Report_Ivy_L_Xie.pdf`
 * Video Presentation Slides: `CIS_581_Final_Project_Video_Presentation_Ivy_Luxen_Xie.pptx`
 * Video Presentation: Google Drive link can be directly accessed here: https://drive.google.com/file/d/1YJLgB6vf7OrsZPGN372j9vpN9bdgMwTl/view?usp=sharing
 
