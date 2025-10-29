@@ -1,0 +1,6 @@
+numpy>=1.18.1
+imutils>=0.5.3
+matplotlib>=2.2.2
+argparse>=3.2.0
+opencv-python
+imageutils.py
