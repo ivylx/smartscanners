@@ -4,9 +4,6 @@ Repository for my CIS581 Final Project with Professor Jianbo Shi, Fall 2023.
 Ivy L. Xie (Individual)
 
 ### Description of Code and Layout
-* Report: `CIS_581_Final_Project_Report_Ivy_L_Xie.pdf`
-* Video Presentation Slides: `CIS_581_Final_Project_Video_Presentation_Ivy_L_Xie.pptx`
-* Video Presentation: Google Drive link can be directly accessed here: https://drive.google.com/file/d/1YJLgB6vf7OrsZPGN372j9vpN9bdgMwTl/view?usp=sharing
 
 The root directory has the `requirements.txt` for required libraries and packages to install. `Standardized_Test_Answer_Scanner.ipynb` contains intermediate results, explanations, and visualizations for the code to scan standardized test answer sheets, as well grade the answers. The `Bank_Card_Scanner.ipynb` contains intermediate results, explanations, and visualizations for the code to scan bank cards, as well display the card information to the screen.
 
