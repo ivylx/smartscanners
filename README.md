@@ -1,7 +1,7 @@
 # Smart Scanners for Cards and Documents
 Repository for my CIS581 Final Project with Professor Jianbo Shi, Fall 2023.
 
-Ivy Luxen Xie (Individual)
+Ivy L. Xie (Individual)
 
 ### Description of Code and Layout
 * Report: `CIS_581_Final_Project_Report_Ivy_Luxen_Xie.pdf`
